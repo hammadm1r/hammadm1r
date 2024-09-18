@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hammad Farooq Meer</h1>
+<h1 align="center">Hi 👋, I'm Hammad Farooq Ahmed Meer</h1>
 <h3 align="center">A passionate Full Stack Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad774&label=Profile%20views&color=0e75b6&style=flat" alt="hammad774" /> </p>
