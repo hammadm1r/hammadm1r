@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad774&label=Profile%20views&color=0e75b6&style=flat" alt="hammad774" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammad774" alt="hammad774" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="hammad774" /></a> </p>
 
 - 🔭 I’m currently working on [Foodie](https://github.com/hammadm1r/Foodie-App)
 
